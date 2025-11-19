@@ -1,0 +1,33 @@
+{
+    "AboutTop": {
+        "intro": "We are a dynamic IT company specializing in creating innovative and functional web solutions. We create a complete identity for your business - from brand strategy to website, business cards and full branding. We believe that good design tells a story. Your idea is the starting point. We add vision, strategy and technology. Together we build something that matters.",
+        "heading": "Mission",
+        "1": "To offer professional, creative web and graphic design",
+        "2": "To help companies stand out in the digital environment",
+        "3": "To create solutions that are both functional and aesthetic",
+        "4": "To reflect the unique essence of each brand",
+        "5": "To be a trusted partner in digital transformation.",
+        "6": "To turn every idea into reality with attention, passion and professionalism",
+        "7": "To speak the language of the client",
+        "8": "To implement innovations that make business more agile and modern",
+        "9": "The idea comes to life. The brand stands out."
+    },
+    "AboutMiddle": {
+        "heading": "Why choose us?",
+        "1": "1. Strategic approach, not just beautiful design",
+        "1sub": "We work with a purpose – each project is aimed at real results for your business.",
+        "2": "2. Flexible packages according to needs and budget",
+        "2sub": "We adapt to you – from a small project to a full visual identity.",
+        "3": "3. Young and ambitious team",
+        "3sub": "We bring fresh energy, a modern vision and unconventional ideas.",
+        "4": "4. We can work entirely online",
+        "4sub": "No matter where you are – we communicate effectively via Zoom, chat and email.",
+        "5": "5. Long-term relationships, not one-off deals",
+        "5sub": "We aim to be your reliable development partner, not just a contractor.",
+        "6": "6. Transparent work process",
+        "6sub": "You will know at what stage your project is at any time."
+    },
+    "AboutBottom": {
+        "text": "The idea comes to life. The brand stands out."
+    }
+}

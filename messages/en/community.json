@@ -1,0 +1,32 @@
+{
+    "CommunityPage1": {
+        "heading": "Information Sharing",
+        "1": "We do not sell or provide personal data to third parties, except in the following cases:",
+        "2": "When necessary for the execution of a contract or the provision of a service",
+        "3": "When required by law, court, or government authorities",
+        "4": "With trusted service providers who assist us in delivering services (e.g., hosting, cloud solutions, technical support) — while adhering to the same standards of security and confidentiality"
+    },
+    "CommunityPage2": {
+        "heading": "Data Storage and Protection",
+        "1": "Personal data is stored in secure systems and is accessed only by authorized personnel.",
+        "2": "We implement technical and organizational measures to protect against unauthorized access, loss, or misuse.",
+        "3": "Information is retained only for as long as necessary to achieve the purposes for which it was collected, or as required by law."
+    },
+    "CommunityPage3": {
+        "heading": "Policy Changes",
+        "1": "AI Innovations reserves the right to update this policy as needed.",
+        "2": "All changes will be published on this page, with the date of the latest revision indicated.",
+        "3": "We recommend periodically reviewing the page to stay informed about how we protect your data."
+    },
+    "CommunityPage4": {
+        "heading": "User Rights",
+        "1": "Access your personal data and information about how it is processed",
+        "2": "Request correction, updating, or deletion (“right to be forgotten”)",
+        "3": "Object to the processing of data for marketing purposes",
+        "4": "Withdraw your consent at any time",
+        "5": "File a complaint with the Commission for Personal Data Protection (CPDP) if you believe your rights have been violated"
+    }
+}
+
+
+

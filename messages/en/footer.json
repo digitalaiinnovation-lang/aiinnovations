@@ -1,0 +1,29 @@
+{
+    "Services": {
+        "heading" : "Services",
+        "1": "Web Design and Development",
+        "2": "Corporate Websites and Online Stores",
+        "3": "Graphic Design and Branding",
+        "4": "Marketing Materials",
+        "5": "Social Media"
+    },
+    "Community": {
+        "heading" : "Community",
+        "1": "Sharing information",
+        "2": "Data storage and protection",
+        "3": "Policy changes",
+        "4": "User rights"
+    },
+    "ForUs": {
+        "heading" : "For us",
+        "1": "Contact",
+        "2": "Services"
+    },
+    "Contacts": {
+        "heading" : "Contacts",
+        "email": "aiinnovations@gmail.com",
+        "address": "Tsar Simeon Veliki 105 apartment 4 floor 4",
+        "phone": "+359 87 7708077"
+    }
+
+}

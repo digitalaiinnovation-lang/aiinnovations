@@ -1,0 +1,63 @@
+{
+    "ServTop": {
+        "heading": "Services",
+        "desc": "Brand Identity and Logo Design",
+        "1": "Graphic Design and Branding",
+        "2": "Web Design and Development",
+        "3": "Custom Illustrations",
+        "4": "Presentations and Corporate Materials",
+        "5": "Consultations"
+    },
+    "ServMiddle": {
+        "heading": "What You Get?",
+        "desc": "We offer a complete visual identity for your business — a professional logo in all formats, colors, and typography, a website with an admin panel and team instructions. We provide print-ready files for business cards and letterheads, as well as ready-made templates for social media and presentations, ensuring a polished and consistent presence both online and offline."
+    },
+    "ServBottom": {
+        "heading": "ИТ консултации",
+        "p1": "Предоставянето на консултантски и технически услуги е насочено към цялостна подкрепа на бизнес процесите на нашите клиенти, чрез прилагане на доказани практики, съвременни технологии и персонализирани решения. Нашият екип от експерти осигурява стратегическо планиране, техническа експертиза и оперативна гъвкавост с цел.",
+        "li1": "Бизнес анализ",
+        "li2": "Технически съвети и архитектура",
+        "li3": "Оптимизация",
+        "li4": "Автоматизирано тестване",
+        "li5": "Гарантиране на качеството на продуктите",
+        "li6": "Поддръжка и аутсорсинг 24/7",
+        "li7": "Техническа помощ и администриране ",
+        "p2": "Всяка услуга се адаптира според конкретните нужди на клиента, като осигуряваме условия за дългосрочно партньорство, основано на доверие, прозрачност и професионализъм."
+    },
+    "ServDetails1": {
+        "heading": "Web Design and Development",
+        "1": "We create modern, functional, and fast websites that work for your business.",
+        "2": "We combine creative design with a solid technical foundation to build sites that not only look impressive but also attract customers.",
+        "3": "Our adaptive solutions are compatible with all devices, with a focus on speed, security, and user convenience.",
+        "4": "Each project is crafted with attention to detail — from the first sketch to final implementation and ongoing support."
+    },
+    "ServDetails2": {
+        "heading": "Graphic Design and Branding",
+        "1": "We create a visual identity that sets your business apart and speaks the language of your clients.",
+        "2": "From logo and typography to a complete brand style, we build a vision that conveys confidence and recognizability.",
+        "3": "Our process includes research, concept development, design, and finalization of a full brand package: logo, color palette, icons, templates, and corporate materials.",
+        "4": "Our goal is simple — to turn your idea into a memorable and consistent brand that works both online and offline."
+    },
+    "ServDetails3": {
+        "heading": "Corporate Websites and Online Stores",
+        "1": "Your website is the face of your business online.",
+        "2": "We create corporate websites and online stores that reflect your identity and inspire trust.",
+        "3": "We develop systems with easy navigation, flexible content, and integrations for payments, catalogs, and orders.",
+        "4": "Our team plans everything — from structure and design to SEO optimization and training on the admin panel.",
+        "5": "The result is a professional website that sells, informs, and builds a strong online presence."
+    },
+    "ServDetails4": {
+        "heading": "Social Media",
+        "1": "A presence on social media is essential for any modern business.",
+        "2": "We develop a comprehensive strategy for content, visuals, and communication tailored to your audience.",
+        "3": "We create templates for posts, ads, and stories that make it easier for your team and maintain a consistent visual style.",
+        "4": "We help you build an active and engaged community that turns followers into customers."
+    },
+    "ServDetails5": {
+        "heading": "Marketing Materials",
+        "1": "Your communication starts with the details — business cards, brochures, catalogs, letterheads, and presentations.",
+        "2": "We create marketing materials that present your business with professionalism and style.",
+        "3": "Each design follows your brand identity, ensuring your messages are clear, consistent, and impactful.",
+        "4": "We provide files ready for print or digital use, helping you maintain a consistent and modern image for your clients."
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "TeamTop": {
+        "heading": "Team",
+        "desc": "Highly qualified developers — specialists with many years of experience in creating reliable, secure, and well-structured software and graphic solutions.",
+        "1": "Graphic Designers — create brand identities that not only look great but also stay memorable.",
+        "2": "System Architects — build the reliable foundation on which every technological solution stands.",
+        "3": "Web Developers — transform designs into functional, responsive web experiences.",
+        "4": "3D Designers — give shape and depth to ideas through impactful 3D visualizations."
+    },
+    "TeamMiddle": {
+        "heading": "Information Collection",
+        "desc": "Name, email, phone number, and other contact information",
+        "1": "Information about the services and products used",
+        "2": "Technical data — IP address, browser type, operating system, cookies",
+        "3": "Additional information voluntarily provided by the client",
+        "bottom": "We collect this information to improve the user experience, provide personalized services, analyze usability, and maintain effective communication with our clients. All data is processed in accordance with applicable legislation and with a high level of personal information protection."
+    },
+    "TeamBottom": {
+        "heading": "From Idea to Reality",
+        "1": "We are AI Innovations — a team that unites strategy, graphic design, and development to build a consistent presence for your brand everywhere:",
+        "2": "Online and Offline.",
+        "3": "We plan, create, and implement everything — from your name and logo to your website, business cards, presentations, complete visual identity, and office branding. We work through a clear process, speak the language of business, and deliver measurable value.",
+        "4": "We take a strategic approach — understanding your goals, audience, and market.",
+        "5": "We think creatively — every solution is unique, visually strong, and functional.",
+        "6": "We act pragmatically — without unnecessary jargon or processes that don’t bring results.",
+        "7": "For us, design is not just about appearance — it’s a tool for communication, impact, and growth.",
+        "8": "We believe that when vision, words, and technology work together, your business stands out."
+    }
+}

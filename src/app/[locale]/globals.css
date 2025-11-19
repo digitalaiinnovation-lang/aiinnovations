@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Bagla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alike&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Averia+Gruesa+Libre&display=swap');
+@import "tailwindcss";
+
+Averia Gruesa Libre
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.font-alumni {
+  font-family: "Alumni Sans", sans-serif;
+}
+
+.font-anek {
+  font-family: "Anek Bagla", sans-serif;
+}
+
+.font-anonymous {
+  font-family: "Anonymous Pro", monospace;
+}
+
+.font-audiowide {
+  font-family: "Audiowide", cursive;
+}
+
+.font-almarai {
+  font-family: "Almarai", sans-serif;
+}
+
+.font-albertsans {
+  font-family: "Albert Sans", sans-serif;
+}
+
+.font-allura {
+  font-family: "Allura", sans-serif;
+}
+
+.font-abhaya-extrabold {
+  font-family: "Abhaya Libre", sans-serif;
+  font-weight: 800;
+}
+
+.font-alike {
+  font-family: "Alike", serif;
+}
+
+.font-alkalami {
+  font-family: "Alkalami", serif;
+}
+
+.font-abel {
+  font-family: "Abel", sans-serif;
+}
+
+.font-inter {
+  font-family: "Inter", sans-serif;
+}
+
+.font-averia {
+  font-family: "Averia Gruesa Libre", cursive;
+}

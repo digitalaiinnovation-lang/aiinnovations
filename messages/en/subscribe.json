@@ -1,0 +1,12 @@
+{
+    "Subscribe": {
+        "heading": "Step into the world of AI INNOVATIONS!",
+        "desc": "Subscribe and get early access to our AI packages for websites, business cards, and digital identity — before everyone else.",
+        "email": "Email",
+        "bonus": "Yes, I want to receive AI inspiration and offers.",
+        "submit": "Subscribe!",
+        "success": "Confirmation email send",
+        "error": "Failed to subscribe. Please, try again.",
+        "loading": "Sending..."
+    }
+}

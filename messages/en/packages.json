@@ -1,0 +1,38 @@
+{
+    "PackageGeneral": {
+        "heading": "Three steps to a strong and recognizable brand",
+        "including": "What's included:",
+        "submit": "Submit a request"
+    },
+    "StartPackage": {
+        "heading": "START – For startups and new brands",
+        "desc": "Suitable for: entrepreneurs, small businesses and new brands starting their journey in the digital world. \nStart confidently with our basic package, designed to lay the foundations of your visual and online identity. Everything you need to be recognizable, organized and professional from the very beginning.",
+        "1": "Mini positioning strategy - a brief analysis and guidelines on how to present your brand effectively.",
+        "2": "Logo design - a professionally crafted logo that expresses the spirit and message of your business.",
+        "3": "Basic brand package - color palette, typography and visual guidelines for consistency across all channels.",
+        "4": "One-page website - a modern and responsive site with everything most important for your business.",
+        "5": "5 social media templates - ready-made designs for Facebook, Instagram, LinkedIn, etc.",
+        "6": "Business cards - stylish design for your first impression when meeting clients and partners.",
+        "result": "Result: a complete starter package for professional presentation and presence online and offline."
+    },
+    "SkillPackage": {
+        "heading": "SKILL – For growing businesses and developing brands",
+        "desc": "Suitable for: companies that already have an established presence and want to upgrade their identity, web presence and communication.\nThis package builds on the basic elements and provides you with a professional platform for expansion and sustainable growth.",
+        "1": "Complete brand identity - an expanded visual system, style guide and graphic elements.",
+        "2": "Multi-page website (up to 10 pages) - including main sections, blog and dynamic elements.",
+        "3": "Integrations - connection to social networks, email marketing, Google Analytics and other systems.",
+        "4": "Presentations - a professional PowerPoint/Google Slides template in the spirit of your brand.",
+        "5": "Business cards and templates for the team - personalized business cards, email signatures and documents with brand identity.",
+        "result": "The result: a strong visual and digital presence, ready to scale and professional communication with clients."
+    },
+    "SignaturePackage": {
+        "heading": "SIGNATURE – For established brands and market leaders",
+        "desc": "Suitable for: companies with an established presence that want to strengthen their influence, refine their strategy and differentiate themselves at the next level. The Premium package focuses on deep strategic analysis, comprehensive positioning and elegant, high-class design, reflecting the maturity and authority of your brand.",
+        "1": "Deep business and brand strategy - market analysis, target audiences, competitive advantages and positioning.",
+        "2": "Identity development or rebranding - new visual DNA or improvement of the existing one.",
+        "3": "Next-generation corporate website - modular structure, UX design, personalized functionalities.",
+        "4": "Marketing materials and image resources - corporate presentations, document templates, media packages.",
+        "5": "Consulting and strategic partnership - long-term support, planning and optimization.",
+        "result": "Result: a distinctive, strategically positioned brand that inspires trust and attracts attention at every level."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "ContactForm": {
+        "heading": "Contact form",
+        "name": "Name",
+        "website": "Website",
+        "email": "Email",
+        "phone": "Phone",
+        "massage": "Message",
+        "submit": "Send inquiry",
+        "sending": "Sending...",
+        "errorMessage": "Something went wrong. Please try again later.",
+        "successMessage": "Your inquiry has been sent!!",
+        "backToHome": "Home"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "BusinessTop1": {
+        "heading": "IT Consulting and Technology Solutions",
+        "1": "Today’s business is evolving at a rapid pace and technology plays a key role in every aspect of it. Whether you are starting a new project or want to optimize your existing systems – we are here to help you make the best technology decisions for your organization.",
+        "2": "Our team of experienced IT experts will consult with you and provide you with clearly structured recommendations to build a stable, flexible and secure technology infrastructure.",
+        "3": "Request a consultation with one of our specialists and discover how your business can achieve more through intelligent technologies."
+    },
+    "BusinessTop2": {
+        "heading": "IT Consulting and Technology Solutions",
+        "1": "We have experience in the full development cycle – from concept and design, through programming and testing, to implementation and subsequent support. We create individual solutions that are fully aligned with your business processes and strategic goals."
+    },
+    "BusinessBottom1": {
+        "heading": "Business Analytics and Technical Architecture",
+        "desc": "Better understand the needs of your business, customers and processes. Our business analysts will identify key areas for improvement, and our architects will build the technology foundation that will provide you with long-term stability and scalability. You will receive a clear roadmap for developing and integrating solutions that are aligned with your business goals."
+    },
+    "BusinessBottom2": {
+        "heading": "Cybersecurity and Data Protection",
+        "desc": "In the digital age, information protection is of key importance. We offer a full range of cybersecurity services:",
+        "1": "Security Audit and Assessment",
+        "2": "Implementation of Data Protection Policies",
+        "3": "Proactive Protection from Threats and Hacker Attacks",
+        "bottom": "Ensure peace of mind and trust for your customers with our security solutions."
+    },
+    "BusinessBottom3": {
+        "heading": "Automated Testing and Quality Assurance",
+        "desc": "Quality is not a luxury — it’s a standard. Our automated testing experts ensure the reliability and effectiveness of your products through modern QA methodologies and tools. The result is better performance, fewer errors, and faster time to market."
+    },
+    "BusinessBottom4": {
+        "heading": "24/7 Support and Outsourcing",
+        "desc": "Your business doesn't stop – and neither do we. Our support team is available 24/7 to ensure your systems are up and running. We offer full technical support, administration, monitoring and rapid troubleshooting so you don't lose a minute of your productivity."
+    }
+}

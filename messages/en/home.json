@@ -1,0 +1,69 @@
+{
+    "HomeHeadings": {
+        "main_blue": "Web",
+        "main_white": ". Vision. Style",
+        "subheading": "Digital solutions for business: websites, business cards, branding, graphic design"
+    },
+    "CompanyInfo": {
+        "heading": "What is the company?",
+        "desc1": "AI Innovations is where ideas turn into meaningful brands.",
+        "desc2": " We are a team of strategists, graphic designers and developers who don't just execute tasks, but create complete brand solutions between businesses and their audiences. We approach each idea with understanding and turn it into a complete concept - with a clear message, a strong visual presence. Our goal is simple: to help your ideas be recognized, remembered and preferred.",
+        "1": "Luxury design for a real estate company. Gold and black design with geometric lines and a sophisticated logo, symbolizing prestige and high-class services.",
+        "2": "This design presents an elegant and professional design for an architectural or construction company. The visual focus is on a 3D model of a modern building placed on top of blueprints and architectural plans, symbolizing attention to detail and professionalism.",
+        "3": "Modern corporate design for real estate. Featuring a minimalist logo design of roofs and geometric elements, placed on a background of architectural buildings. Suitable for real estate agencies or construction companies.",
+        "4": "Warm and cozy design for a spa center. Contains photos of procedures (pedicure, massage, oil therapy) and contact information. Suitable for advertising wellness and beauty services.",
+        "5": "An elegant promotional flyer in brown and beige tones for a jewelry brand. It highlights luxury accessories and offers a discount of up to 60%. It is aimed at a stylish and modern audience.",
+        "6": "Professional business design with an elegant gray palette and blue accents. The business card and stationery create a sense of corporate stability and luxury.",
+        "7": "The design is feminine and sophisticated, with a pink marble background, colorful floral elements, and a photo that emphasizes beauty and style. It is suitable for beauty salons, manicurists, or cosmetic services.",
+        "8": "It has a minimalist and elegant design in warm brown shades, symbolizing coffee and coziness. It is suitable for cafes, baristas or businesses in the food and beverage sector."
+    },
+    "HomeServices": {
+        "1": "Brand identity and logo design",
+        "2": "Web design and development",
+        "3": "Consultations",
+        "4": "Graphic design and branding"
+    },
+    "UserRules": {
+        "heading": "User rules",
+        "1": "Access to your personal data",
+        "2": "Correction and updating of data",
+        "3": "Erase of data (\"right to be forgotten\")",
+        "4": "Objection to processing for marketing purposes",
+        "5": "Submitting a complaint to the CPDP"
+    },
+    "HowDoWeWork": {
+        "heading": "How do we work?",
+        "1": "1. Discovery:",
+        "1sub": "-goals, audience, competition",
+        "2": "2. Strategy:",
+        "2sub": "-goals, audience, competition",
+        "3": "3. Identity",
+        "3sub": "-guidelines - concepts - finalization",
+        "4": "4. Website",
+        "4sub": "-design system - development - integrations",
+        "5": "5. Materials",
+        "5sub": "-business cards, templates, presentations, office branding",
+        "6": "6. Support",
+        "6sub": "-testing, training, analytics"
+    },
+    "HomePackagesInfo": {
+        "heading": "Packages",
+        "starter_heading": "Start-up for startups",
+        "starter1": "Mini Strategy",
+        "starter2": "Logo",
+        "starter3": "Core Branding",
+        "starter4": "One Page Website",
+        "starter5": "5 Social Media Templates",
+        "starter6": "Business Cards",
+        "skill_heading": "Skill-for stretching",
+        "skill1": "Full Identity",
+        "skill2": "Multi-page site (up to 10+ pages) + block, integrations",
+        "signature_heading": "Signature - for established brands",
+        "signature1": "Deep Strategy",
+        "signature2": "Positioning"
+    },
+    "WhyUs": {
+        "heading": "Why choose us?",
+        "text": "We work strategically, with a clear goal and real results for your business. Our young and ambitious team brings fresh energy and a modern vision, and can work entirely online, no matter where you are."
+    }
+}
