@@ -1,11 +1,10 @@
 'use server'
 
-import { Resend } from "resend";
+import resend from "../../../../resend.config";
 import { NextResponse } from "next/server";
 import crypto from "crypto";
 import db from "@/db";
 
-const resend = new Resend(process.env.RESEND_API_KEY);
 
 db.prepare(`
   CREATE TABLE IF NOT EXISTS subscribers (
