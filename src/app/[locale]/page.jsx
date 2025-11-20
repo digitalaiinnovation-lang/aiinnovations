@@ -1,7 +1,6 @@
 import CompanyInfoCard from "@/components/CompanyInfoCard";
 import HomePackageCard from "@/components/HomePackageCard";
 import HomeServicesCard from "@/components/HomeServicesCard";
-import HomeSubscribe from "@/components/HomeSubscribe";
 import { useTranslations } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
 import { use } from "react";
@@ -188,9 +187,6 @@ export default function Home({ params }) {
           <p className="md:text-[36px] text-[15px] text-center mt-4">{whyUsT("text")}</p>
         </div>
       </section>
-
-      {/* Subscribe */}
-      <HomeSubscribe />
     </main>
   );
 }
