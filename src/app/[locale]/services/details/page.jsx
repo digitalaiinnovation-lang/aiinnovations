@@ -2,6 +2,7 @@ import { use } from "react";
 import { useTranslations } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
 import CompanyInfoCardHeading from "@/components/CompanyInfoCardHeading";
+export const runtime = 'edge';
 
 export const metadata = {
   title: "Services | AI Innovations"

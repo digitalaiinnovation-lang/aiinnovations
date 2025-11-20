@@ -4,6 +4,7 @@ import HomeServicesCard from "@/components/HomeServicesCard";
 import { useTranslations } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
 import { use } from "react";
+export const runtime = 'edge';
 
 export const metadata = {
   title: "AI Innovations"

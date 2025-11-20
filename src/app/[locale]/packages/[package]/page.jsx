@@ -1,5 +1,6 @@
 import ContactForm from "@/components/ContactForm";
 import { use } from "react"
+export const runtime = 'edge';
 
 export const metadata = {
     title: "Request Package | AI Innovations"

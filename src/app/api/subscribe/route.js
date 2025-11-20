@@ -4,6 +4,7 @@ import resend from "../../../../resend.config";
 import { NextResponse } from "next/server";
 import crypto from "crypto";
 import db from "@/db";
+export const runtime = 'edge';
 
 
 db.prepare(`

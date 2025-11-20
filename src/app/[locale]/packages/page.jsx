@@ -3,6 +3,7 @@ import { useTranslations } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
 import { use } from "react"
 import routes from "@/routes";
+export const runtime = 'edge';
 
 export const metadata = {
     title: "Packages | AI Innovations"
